@@ -1,4 +1,7 @@
 python-dotenv
 langchain
+langgraph
 langchain-google-genai
 langchain-ollama
+langgraph-checkpoint-postgres
+psycopg-binary
